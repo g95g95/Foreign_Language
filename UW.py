@@ -13,7 +13,7 @@ from scipy import optimize
 import string
 
 
-def Guess_The_Word(Direction = "Fremd->T",filename = 'Test.xls', filepath = '',N = 20):
+def Guess_The_Word(Direction = "Fremd->T",filename = 'Test.xls', filepath = 'WF/',N = 20):
 	
 	RA = 0
 	WA = 0
